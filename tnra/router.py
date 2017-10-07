@@ -52,18 +52,22 @@ def next_weekday(datetime_now = None, desired_weekday = 3):
 
 class Router(object):
 
-    def __init__(self, otp_port, route_logging = ROUTE_LOGGING,
+    def __init__(self, router, kwargs, route_logging = ROUTE_LOGGING,
                  route_log_path = ROUTE_LOG_PATH):
         """ Initializes Router object
 
         Args:
-            otp_port: The port that OpenTripPlanner accepts HTTP requests on
+            router: An object from route_distances that is a subclass of
+                Distances (i.e. route_distances.OTPDistances).
+            kwargs: Keyword arguments to be passed to the initialization of the
+                router, in the form of a dict (i.e.
+                {"entrypoint": "localhost:5000"}).
             route_logging: Whether or not to log all routes
             route_log_pah: The path to log all routes to, if route_logging is True
         """
 
         self.client = server.Client()
-        self.calculator = route_distances.OTPDistances("localhost:%d" % otp_port)
+        self.calculator = router(**kwargs)
         self.logging = route_logging
         self.route_log_path = route_log_path
 

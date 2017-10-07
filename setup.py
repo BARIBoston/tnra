@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name = "tnra",
-    version = "0.1.0",
+    version = "0.2.0",
     license = "MIT",
     description = "Transportation Network Resilience Analytics platform by "
                   "the UIRLab at Northeastern University",

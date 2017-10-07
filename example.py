@@ -27,8 +27,12 @@ manager.start()
 
 # This dict is passed as keyword arguments to the tnra.router.Router object
 # initialization
+import route_distances
 tnra.start_routers({
-    "otp_port": manager.port,
+    "router": route_distances.OTPDistances,
+    "kwargs": {
+        "entrypoint": "localhost:%d" % manager.port
+    },
     "route_logging": False
 })
 

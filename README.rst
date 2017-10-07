@@ -4,15 +4,17 @@ Transportation Network Resilience Analytics platform
 A platform for large scale, distributed routing applications based in Python
 and using OpenTripPlanner, by the UIRLab at Northeastern University (WIP)
 
-Submodules
-----------
+Dependencies on Other UIRLab Projects
+-------------------------------------
+
+These must be installed before using the TNRA platform.
 
 `route_distances <https://github.com/ercas/route_distances>`_: A library that
 simplifies interfacing with multiple different routing services.
 
 `otpmanager <https://github.com/ercas/otp_manager>`_: A library that provides
 Python procedures for programatically starting up and monitoring
-OpenTripPlanner.
+OpenTripPlanner, which is the routing engine used by the TNRA platform.
 
 Installation
 ------------
@@ -31,11 +33,11 @@ Usage - Single Computer / Main Cluster Node
 
 ::
 
-    $ tnra_server
+    tnra_server
 
 ..
 
-2. Connect to the server using tnra.server.Client and start queueing routes
+2. Connect to the server using the tnra.Client object and start queueing routes
 
 .. code-block:: python
 
@@ -72,8 +74,12 @@ Usage - Single Computer / Main Cluster Node
 
     # This dict is passed as keyword arguments to the tnra.router.Router object
     # initialization
+    import route_distances
     tnra.start_routers({
-        "otp_port": manager.port
+        "router": route_distances.OTPDistances,
+        "kwargs": {
+            "entrypoint": "localhost:%d" % manager.port
+        },
         "route_logging": False
     })
 
@@ -104,6 +110,7 @@ Usage - Single Computer / Main Cluster Node
 
 ..
 
+The above code is available as an example script, `example.py`.
 
 Usage - Cluster Worker Node
 ---------------------------
