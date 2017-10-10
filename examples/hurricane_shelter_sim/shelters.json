@@ -1,0 +1,1118 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1454900002911,
+                    42.3490900001731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Brighton High School",
+                "City": "Allston/Brighton",
+                "Zipcode": "2135",
+                "Statea": "MA",
+                "GlobalID": "eff6fd96-1392-4a03-9e2e-fde2b1d8f521",
+                "Address": "25 Warren Street",
+                "OBJECTID": 1,
+                "PhoneNumbe": "(617) 635-9673"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.16018999953,
+                    42.3455799998937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Edison Middle School",
+                "City": "Allston/Brighton",
+                "Zipcode": "2135",
+                "Statea": "MA",
+                "GlobalID": "97fce8d0-436f-4cb3-985d-0df9ea0babc5",
+                "Address": "60 Glenmont Road",
+                "OBJECTID": 2,
+                "PhoneNumbe": "(617) 635-8436"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1607599999727,
+                    42.3521200000955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "James Garfield School",
+                "City": "Allston/Brighton",
+                "Zipcode": "2135",
+                "Statea": "MA",
+                "GlobalID": "16ccb5d1-2819-4be5-9b22-02f2ae949975",
+                "Address": "95 Beechcroft Street",
+                "OBJECTID": 3,
+                "PhoneNumbe": "(617) 635-8351"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0610599995733,
+                    42.3808499999172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Charlestown Community Center",
+                "City": "Charlestown",
+                "Zipcode": "2129",
+                "Statea": "MA",
+                "GlobalID": "30ac7b69-0898-4d62-a2ae-c21a38cf790e",
+                "Address": "255 Medford Street",
+                "OBJECTID": 4,
+                "PhoneNumbe": "(617) 635-5169"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0574900002924,
+                    42.376620000121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Kent Center",
+                "City": "Charlestown",
+                "Zipcode": "2129",
+                "Statea": "MA",
+                "GlobalID": "c950f3c9-2694-4521-b356-fdd0a6401c36",
+                "Address": "50 Bunker Hill Street",
+                "OBJECTID": 5,
+                "PhoneNumbe": "(617) 635-5177"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1341099994824,
+                    42.360760000154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Gardner Elementary School",
+                "City": "Allston/Brighton",
+                "Zipcode": "2134",
+                "Statea": "MA",
+                "GlobalID": "892e0b09-e48e-45e2-bba4-64fc1770d742",
+                "Address": "30 Athol Street",
+                "OBJECTID": 6,
+                "PhoneNumbe": "(617) 635-8365"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1376999997649,
+                    42.3520499997093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Jackson-Mann Community Center",
+                "City": "Allston/Brighton",
+                "Zipcode": "2134",
+                "Statea": "MA",
+                "GlobalID": "6dac5d78-a5c5-4f65-87b4-70baa439a2bd",
+                "Address": "40 Armington Street",
+                "OBJECTID": 7,
+                "PhoneNumbe": "(617) 635-8532"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0949943261853,
+                    42.3461648067557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Boston Arts Academy",
+                "City": "Fenway/Kenmore",
+                "Zipcode": "2215",
+                "Statea": "MA",
+                "GlobalID": "d33784f3-cdd7-4fbb-b10c-447e528031f2",
+                "Address": "174 Ipswich Street",
+                "OBJECTID": 8,
+                "PhoneNumbe": "(617) 635-6470"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0544200003917,
+                    42.3652500000762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Nazarro Community Center",
+                "City": "North End",
+                "Zipcode": "2113",
+                "Statea": "MA",
+                "GlobalID": "1ad49144-543d-44f6-97c0-26e31f3a539c",
+                "Address": "30 N Bennett Street",
+                "OBJECTID": 9,
+                "PhoneNumbe": "(617) 635-5166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0646327028117,
+                    42.3475867723042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Josiah Quincy",
+                "City": "Chinatown",
+                "Zipcode": "2111",
+                "Statea": "MA",
+                "GlobalID": "4061bb2f-f5a0-433c-aa69-da376e4b08cf",
+                "Address": "855 Washington Street",
+                "OBJECTID": 10,
+                "PhoneNumbe": "(617) 635-8497"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0617700001359,
+                    42.3007899995565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Cleveland School",
+                "City": "Dorchester",
+                "Zipcode": "2122",
+                "Statea": "MA",
+                "GlobalID": "5d632a32-d8a0-4291-ba14-6838bf394420",
+                "Address": "11 Charles Street",
+                "OBJECTID": 11,
+                "PhoneNumbe": "(617) 536-5141"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0760032597563,
+                    42.2853687368405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Dorchester High School",
+                "City": "Dorchester",
+                "Zipcode": "2124",
+                "Statea": "MA",
+                "GlobalID": "a56d3ca3-a4cd-470c-a7f7-1ec355de6040",
+                "Address": "9 Peacevale Avenue",
+                "OBJECTID": 12,
+                "PhoneNumbe": "(617) 635-7825"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0810766230348,
+                    42.3078068216131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Grove Hall Community Center",
+                "City": "Roxbury",
+                "Zipcode": "2121",
+                "Statea": "MA",
+                "GlobalID": "3c982f5a-678b-4c35-b7be-7398477cd6b1",
+                "Address": "51 Geneva Ave",
+                "OBJECTID": 13,
+                "PhoneNumbe": "(617) 427-3337"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0707299997988,
+                    42.2999100002832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Marshall Elementary School",
+                "City": "Dorchester",
+                "Zipcode": "2124",
+                "Statea": "MA",
+                "GlobalID": "d31eda9f-2394-4a04-81a7-11a6bdc45219",
+                "Address": "35 Westville Street",
+                "OBJECTID": 14,
+                "PhoneNumbe": "(617) 635-8810"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0437103756416,
+                    42.3176033734444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "McCormick Middle School",
+                "City": "Dorchester",
+                "Zipcode": "2125",
+                "Statea": "MA",
+                "GlobalID": "8b0a2e63-90a4-412c-9d6d-30c760e4cfec",
+                "Address": "315 Mt Vernon St",
+                "OBJECTID": 15,
+                "PhoneNumbe": "(617) 635-8557"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0490599996182,
+                    42.2939700003291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Murphy School, -Leahy Holloran Community Center",
+                "City": "Dorchester",
+                "Zipcode": "2122",
+                "Statea": "MA",
+                "GlobalID": "a8c8c2cc-82e9-470f-b8be-87c54d5732db",
+                "Address": "1 Worrell Street",
+                "OBJECTID": 16,
+                "PhoneNumbe": "(617) 635-5150"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0754100005133,
+                    42.3090499999447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "New Boston Pilot Middle School",
+                "City": "Roxbury",
+                "Zipcode": "2121",
+                "Statea": "MA",
+                "GlobalID": "bce01eac-320e-424f-a1d5-29a123c03433",
+                "Address": "270 Columbia Road",
+                "OBJECTID": 17,
+                "PhoneNumbe": "(617) 635-1650"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0695699994424,
+                    42.281240000368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Wilson Middle School",
+                "City": "Dorchester",
+                "Zipcode": "2124",
+                "Statea": "MA",
+                "GlobalID": "bb70d194-3357-4ab9-91aa-25c70a306ef3",
+                "Address": "81 Croftland Street",
+                "OBJECTID": 18,
+                "PhoneNumbe": "(617) 635-8827"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0403299998908,
+                    42.3782699995505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Umana Barnes",
+                "City": "East Boston",
+                "Zipcode": "2128",
+                "Statea": "MA",
+                "GlobalID": "ab6ab424-a5d1-48e9-b856-31e3557c87f0",
+                "Address": "312 Border Street",
+                "OBJECTID": 19,
+                "PhoneNumbe": "(617) 635-8481"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0375400002462,
+                    42.3728800002038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Paris Street Community Center",
+                "City": "East Boston",
+                "Zipcode": "2128",
+                "Statea": "MA",
+                "GlobalID": "ad838d3b-ea81-4333-ad5b-14b7e5c08326",
+                "Address": "112 Paris Street",
+                "OBJECTID": 20,
+                "PhoneNumbe": "(617) 635-5125"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1328800003566,
+                    42.2338900000153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Franklin D. Roosevelt School/Hemenway Building",
+                "City": "Hyde Park",
+                "Zipcode": "2136",
+                "Statea": "MA",
+                "GlobalID": "57ba91eb-bbea-4344-b798-4951003d8406",
+                "Address": "30 Millstone Road",
+                "OBJECTID": 21,
+                "PhoneNumbe": "(617) 635-9280"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1142200000196,
+                    42.3186800003913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "James Curley Elementary",
+                "City": "Jamaica Plain",
+                "Zipcode": "2130",
+                "Statea": "MA",
+                "GlobalID": "5e2b8800-8ff9-4679-9a94-e79ce9cdb3fc",
+                "Address": "40 Pershing Road",
+                "OBJECTID": 22,
+                "PhoneNumbe": "(617) 635-8239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1068600003385,
+                    42.3262099998003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Hennigan Elementary School",
+                "City": "Jamaica Plain",
+                "Zipcode": "2130",
+                "Statea": "MA",
+                "GlobalID": "bc30aa24-8079-4747-bca8-6c5b3b49ee91",
+                "Address": "200 Heath Street",
+                "OBJECTID": 23,
+                "PhoneNumbe": "(617) 635-8264"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1057784066385,
+                    42.3217588780631
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "JFK Elementary School",
+                "City": "Jamaica Plain",
+                "Zipcode": "2130",
+                "Statea": "MA",
+                "GlobalID": "837c1d4d-18d3-41d6-8e4a-2470ca4cd4b2",
+                "Address": "7 Bolster Street",
+                "OBJECTID": 24,
+                "PhoneNumbe": "(617) 635-8127"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1201000003747,
+                    42.2923499996287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Menino Center",
+                "City": "Roslindale",
+                "Zipcode": "2131",
+                "Statea": "MA",
+                "GlobalID": "ad053ac6-be04-48a3-ad86-542dba0e0aee",
+                "Address": "125 Brookway Road",
+                "OBJECTID": 25,
+                "PhoneNumbe": "(617) 635-5256"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1268400005405,
+                    42.2864500003389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Sumner Elementary School",
+                "City": "Roslindale",
+                "Zipcode": "2131",
+                "Statea": "MA",
+                "GlobalID": "16894e5b-cb86-4d2f-9f84-34e6f69b05c3",
+                "Address": "15 Basile Street",
+                "OBJECTID": 26,
+                "PhoneNumbe": "(617) 536-8131"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.084499999839,
+                    42.3161499998189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Boston Latin Academy",
+                "City": "Roxbury",
+                "Zipcode": "2121",
+                "Statea": "MA",
+                "GlobalID": "a9c978a6-48c9-47c0-be87-71c07bbaa5c0",
+                "Address": "205 Townsend Street",
+                "OBJECTID": 27,
+                "PhoneNumbe": "(617) 635-9957"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1016899998366,
+                    42.3378900000773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Boston Latin School",
+                "City": "Fenway/Kenmore",
+                "Zipcode": "2115",
+                "Statea": "MA",
+                "GlobalID": "34a84381-64aa-43c6-8ecd-8652f4916fb9",
+                "Address": "78 Louis Pasteur Avenue",
+                "OBJECTID": 28,
+                "PhoneNumbe": "(617) 635-8895"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0981200004454,
+                    42.3139399996581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Hernandez Elementary School",
+                "City": "Roxbury",
+                "Zipcode": "2119",
+                "Statea": "MA",
+                "GlobalID": "8ea035ee-8ff3-45a5-aabd-a1b2b8325be8",
+                "Address": "61 School Street",
+                "OBJECTID": 29,
+                "PhoneNumbe": "(617) 635-8187"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0902900003209,
+                    42.331749999671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Madison Park High School",
+                "City": "Roxbury",
+                "Zipcode": "2119",
+                "Statea": "MA",
+                "GlobalID": "cc054e0a-fcc2-4a6c-8055-11db42cfca5e",
+                "Address": "55 Malcolm X Blvd",
+                "OBJECTID": 30,
+                "PhoneNumbe": "(617) 536-8970"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.090399999518,
+                    42.3222899996355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Shelburne Center",
+                "City": "Roxbury",
+                "Zipcode": "2119",
+                "Statea": "MA",
+                "GlobalID": "a02122f8-40b3-4944-a763-bcf6ae1796a7",
+                "Address": "2730 Washington Street",
+                "OBJECTID": 31,
+                "PhoneNumbe": "(617) 635-5213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0981399997284,
+                    42.332209999888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Tobin/Mission Hill Community",
+                "City": "Mission Hill",
+                "Zipcode": "2120",
+                "Statea": "MA",
+                "GlobalID": "f1c586a2-c27d-434b-b81b-89a68737a9b2",
+                "Address": "1481 Tremont Street",
+                "OBJECTID": 32,
+                "PhoneNumbe": "(617) 635-4920"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0766477947216,
+                    42.3268288199832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Vine Street Center",
+                "City": "Roxbury",
+                "Zipcode": "2119",
+                "Statea": "MA",
+                "GlobalID": "ebb8e4a2-b6b6-4452-982f-a81b5a47cd2b",
+                "Address": "339 Dudley Street",
+                "OBJECTID": 33,
+                "PhoneNumbe": "(617) 635-1285"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0521499997286,
+                    42.3380199997781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Condon Community Center",
+                "City": "South Boston",
+                "Zipcode": "2127",
+                "Statea": "MA",
+                "GlobalID": "59c56f51-da22-4fb2-9520-36e773477d2e",
+                "Address": "200 D Street",
+                "OBJECTID": 34,
+                "PhoneNumbe": "(617) 635-5100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0351499999456,
+                    42.3291199996147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Curley Center",
+                "City": "South Boston",
+                "Zipcode": "2127",
+                "Statea": "MA",
+                "GlobalID": "19f922f7-52be-43d9-ad88-440597181650",
+                "Address": "1663 Columbia Road",
+                "OBJECTID": 35,
+                "PhoneNumbe": "(617) 635-5104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0803799999895,
+                    42.2924400002473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "The Lee School, Perkins Community Center",
+                "City": "Mattapan",
+                "Zipcode": "2124",
+                "Statea": "MA",
+                "GlobalID": "5c1681e0-951d-406b-8dfa-894a640db760",
+                "Address": "155 Talbot Avenue",
+                "OBJECTID": 36,
+                "PhoneNumbe": "(617) 635-5146"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0384099997317,
+                    42.3348499996692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Tynan Community Center",
+                "City": "South Boston",
+                "Zipcode": "2127",
+                "Statea": "MA",
+                "GlobalID": "eb6c7843-95cd-4159-b660-46759fb6e46d",
+                "Address": "650 East 4th Street",
+                "OBJECTID": 37,
+                "PhoneNumbe": "(617) 635-4920"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0777400001382,
+                    42.338749999941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Hurley Elementary School",
+                "City": "South End",
+                "Zipcode": "2118",
+                "Statea": "MA",
+                "GlobalID": "391c3aab-dfec-4237-90ec-3f4bc8fa5dba",
+                "Address": "70 Worcester Street",
+                "OBJECTID": 38,
+                "PhoneNumbe": "(617) 635-8484"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1583699996973,
+                    42.2829900002408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Lyndon Pilot School (RG Shaw)",
+                "City": "West Roxbury",
+                "Zipcode": "2132",
+                "Statea": "MA",
+                "GlobalID": "fc54b9d3-c6c3-4597-b78e-0a4a8d8fcd53",
+                "Address": "20 Mt. Vernon Street",
+                "OBJECTID": 39,
+                "PhoneNumbe": "(617) 635-6824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1496099995042,
+                    42.2607499996477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Ohrenberger Center",
+                "City": "West Roxbury",
+                "Zipcode": "2132",
+                "Statea": "MA",
+                "GlobalID": "c6c23403-99aa-4771-88b2-69fb899b25ed",
+                "Address": "175 W. Boundary Road",
+                "OBJECTID": 40,
+                "PhoneNumbe": "(617) 635-5183"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1493399996773,
+                    42.2870199996887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Roche Center",
+                "City": "West Roxbury",
+                "Zipcode": "2132",
+                "Statea": "MA",
+                "GlobalID": "0449c5fe-558e-4bf3-bced-96efbce9254e",
+                "Address": "1716 Centre Street",
+                "OBJECTID": 41,
+                "PhoneNumbe": "(617) 635-5066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1743399998928,
+                    42.2822600002133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "West Roxbury High School",
+                "City": "West Roxbury",
+                "Zipcode": "2132",
+                "Statea": "MA",
+                "GlobalID": "7aab2a45-04e6-4cbf-a0fc-0008139ec6f7",
+                "Address": "1205 VFW Parkway",
+                "OBJECTID": 42,
+                "PhoneNumbe": "(617) 635-8917"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0108142575674,
+                    42.3887805910213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Pino Center",
+                "City": "East Boston",
+                "Zipcode": "2128",
+                "Statea": "MA",
+                "GlobalID": "e14fb1d6-0a8a-4d7d-bdfd-6609145ddba4",
+                "Address": "86 Boardman St",
+                "OBJECTID": 43,
+                "PhoneNumbe": "(617)-438-4596"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1210800003926,
+                    42.2562899999276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Hyde Park Community Center",
+                "City": "Hyde Park",
+                "Zipcode": "2136",
+                "Statea": "MA",
+                "GlobalID": "bd01861c-df4b-4cd9-8845-90c1b5f9c038",
+                "Address": "1179 River Street",
+                "OBJECTID": 44,
+                "PhoneNumbe": "(617) 635-5178"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0762056078954,
+                    42.3112871900732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "King Middle School",
+                "City": "Roxbury",
+                "Zipcode": "2121",
+                "Statea": "MA",
+                "GlobalID": "28dae5a3-3eba-4c50-ad2b-ec70b726bc1b",
+                "Address": "77 Lawrence Street",
+                "OBJECTID": 45,
+                "PhoneNumbe": "(617) 635-8300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0735118967088,
+                    42.3443309243342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "McKinley Elementary School",
+                "City": "South End",
+                "Zipcode": "2116",
+                "Statea": "MA",
+                "GlobalID": "6fe5231d-de29-4d4d-9284-1a9783e20350",
+                "Address": "90 Warren Ave",
+                "OBJECTID": 46,
+                "PhoneNumbe": "617-635-9976"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0823564357304,
+                    42.2751815413893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Gallivan Center",
+                "City": "Mattapan",
+                "Zipcode": "2126",
+                "Statea": "MA",
+                "GlobalID": "16c2b207-4798-4f8f-9a53-01ef9ff90cf5",
+                "Address": "61 Woodruff Way",
+                "OBJECTID": 47,
+                "PhoneNumbe": "(617) 635-5252"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1149051282233,
+                    42.3088576727516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Curtis Hall",
+                "City": "Jamaica Plain",
+                "Zipcode": "2130",
+                "Statea": "MA",
+                "GlobalID": "2d6ecac1-e4d3-4825-bd5d-7ad471c0ddd8",
+                "Address": "20 South Street",
+                "OBJECTID": 48,
+                "PhoneNumbe": "(617) 635-5193"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0738584261645,
+                    42.3056094665353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Holland Community Center",
+                "City": "Dorchester",
+                "Zipcode": "2121",
+                "Statea": "MA",
+                "GlobalID": "853a29e9-a221-470c-9575-5ad21bd43a44",
+                "Address": "85 Olney Street",
+                "OBJECTID": 49,
+                "PhoneNumbe": "(617) 635-5144"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0722215661497,
+                    42.3406463406115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Blackstone Community Center",
+                "City": "South End",
+                "Zipcode": "2118",
+                "Statea": "MA",
+                "GlobalID": "1f46c5cd-bfdb-4757-a874-082bcf2f9fb6",
+                "Address": "50 West Brookline St",
+                "OBJECTID": 50,
+                "PhoneNumbe": "(617) 635-5162"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0912031726428,
+                    42.2759927246077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Mildred Avenue*",
+                "City": "Mattapan",
+                "Zipcode": "02126",
+                "Statea": "MA",
+                "GlobalID": "20b38e2f-039b-4397-a624-8044097f8f01",
+                "Address": "1-5 Mildred Avenue",
+                "OBJECTID": 51,
+                "PhoneNumbe": "(617) 635-5185"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1276384249151,
+                    42.2865764735092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "635-4920",
+                "Name": "Roslindale",
+                "City": "Roslindale",
+                "Zipcode": "02131",
+                "Statea": "MA",
+                "GlobalID": "650d900e-4c40-4606-b028-91c3d023d400",
+                "Address": "6 Cummins Highway",
+                "OBJECTID": 52,
+                "PhoneNumbe": "(617) 635-1328"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1040900004526,
+                    42.2758200004118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Contact": "331-7765",
+                "Name": "Mattahunt Elementary School",
+                "City": "Mattapan",
+                "Zipcode": "02126",
+                "Statea": "MA",
+                "GlobalID": "886af752-501e-4c76-a63e-7ec4a3f75e7b",
+                "Address": "100 Hebron Street",
+                "OBJECTID": 53,
+                "PhoneNumbe": "(617) 635-8792"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
