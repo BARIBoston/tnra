@@ -199,7 +199,7 @@ class Simulation(object):
             os.makedirs(output_directory)
         with open("%s/scenarios_%s.json" % (output_directory, mode), "w") as f:
             json.dump(scenarios, f, indent = 4)
-        self.tnra_client.open_file("%s/%s/%routes_%s.json" % (
+        self.tnra_client.open_file("%s/%s/routes_%s.json" % (
             os.path.realpath("."), output_directory, mode
         ))
 
