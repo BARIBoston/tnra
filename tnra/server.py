@@ -176,10 +176,16 @@ class Server(threading.Thread):
 
             ## 4X ##############################################################
             elif (message["cmd"] == COMMANDS["get_var"]):
-                self.send_rsp({
-                    "rsp": RESPONSES["ok"],
-                    "body": self.vars[message["body"]["key"]]
-                })
+                if message["body"]["key"] in self.vars:
+                    self.send_rsp({
+                        "rsp": RESPONSES["ok"],
+                        "body": self.vars[message["body"]["key"]]
+                    })
+                else:
+                    self.send_rsp({
+                        "rsp": RESPONSES["ok"],
+                        "body": None
+                    })
 
             elif (message["cmd"] == COMMANDS["set_var"]):
                 self.vars[message["body"]["key"]] = message["body"]["value"]
@@ -317,6 +323,16 @@ class Client(object):
             "cmd": COMMANDS["get_var"],
             "body": {
                 "key": key
+            }
+        })
+        return parse_body(self.recv_rsp())
+
+    def set_var(self, key, value):
+        self.send_cmd({
+            "cmd": COMMANDS["set_var"],
+            "body": {
+                "key": key,
+                "value": value
             }
         })
         return parse_body(self.recv_rsp())
