@@ -26,10 +26,12 @@ Installation
 
 ..
 
-Usage - Single Computer / Main Cluster Node
--------------------------------------------
+Usage - Server / Main Node
+--------------------------
 
-1. Start the TNRA server
+The TNRA server is responsible for distributing work to clients and writing
+incoming data to a file on the disk. The TNRA server can be started with the
+following command after installation:
 
 ::
 
@@ -37,14 +39,24 @@ Usage - Single Computer / Main Cluster Node
 
 ..
 
-2. Connect to the server using the tnra.Client object and start queueing routes
+Usage - Clients / Worker Nodes
+------------------------------
+
+Worker nodes are responsible for starting up their own routing engines,
+requesting jobs from the main node, doing work, and sending the results back to
+the main node. By default, worker nodes will soak up all cores available on the
+machine on which they are run, but this can be toggled with the `threads`
+argument of `tnra.start_routers`.
+
+1. Connect to the server using the tnra.Client object and start enqueueing
+   routes, if necessary
 
 .. code-block:: python
 
     import tnra
 
     # Queue up a single route
-    client = tnra.Client()
+    client = tnra.Client() # If on the main node, the host can be ommitted
     client.enqueue(
         -71.089824, 42.337874, # origin longitude, latitude
         -71.116708, 42.372779, # destination longitude, latitude
@@ -57,7 +69,7 @@ Usage - Single Computer / Main Cluster Node
 
 ..
 
-3. Start using the TNRA platform
+2. Start using the TNRA platform
 
 .. code-block:: python
 
@@ -88,7 +100,7 @@ Usage - Single Computer / Main Cluster Node
 
 ..
 
-4. Analyze results
+3. Analyze results
 
 
 .. code-block:: python
@@ -111,11 +123,6 @@ Usage - Single Computer / Main Cluster Node
 ..
 
 The above code is available as an example script, `example.py`.
-
-Usage - Cluster Worker Node
----------------------------
-
-TODO
 
 TODO
 ----
