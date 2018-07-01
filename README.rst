@@ -1,6 +1,9 @@
 Transportation Network Resilience Analytics platform
 ====================================================
 
+.. image:: https://zenodo.org/badge/104003645.svg
+   :target: https://zenodo.org/badge/latestdoi/104003645
+
 A platform for large scale, distributed routing applications based in Python
 and using OpenTripPlanner, by the UIRLab at Northeastern University (WIP)
 
